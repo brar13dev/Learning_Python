@@ -4,6 +4,7 @@ c = 12.2323
 d = 'A'
 e = True
 e = False
+E 999
 
 print(a, " is type of " , type(a))
 print(b, " is type of ", type(b))
